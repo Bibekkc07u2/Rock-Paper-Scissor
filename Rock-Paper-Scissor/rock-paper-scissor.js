@@ -50,7 +50,7 @@
         else{
           score.Tied+= 1;
         }
-
+//just a comment to maintain github streak
         localStorage.setItem('score',JSON.stringify(score));
 
          

@@ -1,0 +1,29 @@
+     body
+        {
+            font-size: 1.4em;
+            font-family: 'Times New Roman', Times, serif;
+        }
+      .js-subscribe-button
+      {
+        background-color: black;
+        color: white;
+        padding: 0.6em  1.4em;
+        font-size: 1.2rem;
+        border-radius: 2em;
+      }
+      .shipping-cost 
+      {
+        height: 2.2em;
+        width: 15em;
+        font-size: 22px;
+        padding-left: 1%;
+      }
+      .calculate-button
+      {
+        background-color: rgb(122, 199, 5);
+        font-size: 1.5rem;
+        padding: 0.8rem;
+        border-width: 0;
+        border-radius: 3px;
+        margin-left: 1rem;
+      }
