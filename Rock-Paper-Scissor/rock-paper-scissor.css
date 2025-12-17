@@ -24,3 +24,9 @@ body {
   font-weight: bold;
   margin-top: 50px;
 }
+
+.reset-button, .auto-play-button
+{
+  padding: 1em;
+  font-size: 1.2rem;
+}
